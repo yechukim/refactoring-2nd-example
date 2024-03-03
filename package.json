@@ -1,0 +1,23 @@
+{
+  "name": "refactoring-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build --base=./"
+  },
+  "keywords": [],
+  "author": "yechu",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.21.0",
+    "@typescript-eslint/parser": "^5.21.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2",
+    "prettier-eslint": "^14.0.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.6"
+  }
+}
